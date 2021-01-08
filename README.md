@@ -28,4 +28,4 @@ git clone https://github.com/zad4y-fivem-scripts/NoNPC [local]/NoNPC
 ##### License
 
 - GNU License GPL V3.0
-- Read the license in this URL: <https://github.com/zad4y-fivem-scripts/esx_twt/blob/main/LICENSE>
+- Read the license in this URL: <https://github.com/zad4y-fivem-scripts/NoNPC/blob/main/LICENSE>
