@@ -11,12 +11,12 @@
 
 ```sh
 cd resources/
-git clone https://github.com/zad4y-fivem-scripts/NoNPC [local]/NoNPC
+git clone https://github.com/ZAD4YTV/NoNPC [local]/NoNPC
 ```
 
 #### Manualy
 
-- Download <https://codeload.github.com/zad4y-fivem-scripts/NoNPC/zip/main>
+- Download <https://codeload.github.com/ZAD4YTV/NoNPC/zip/main>
 - Put it in the `[local]` repository
 
 ### Instalation
@@ -28,4 +28,4 @@ git clone https://github.com/zad4y-fivem-scripts/NoNPC [local]/NoNPC
 ##### License
 
 - GNU License GPL V3.0
-- Read the license in this URL: <https://github.com/zad4y-fivem-scripts/NoNPC/blob/main/LICENSE>
+- Read the license in this URL: <https://github.com/ZAD4YTV/NoNPC/blob/main/LICENSE>
